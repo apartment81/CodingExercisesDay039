@@ -14,7 +14,7 @@ public class Isogram {
 
         char arr[] = str.toCharArray();
 
-        Arrays.sort(arr);
+       Arrays.sort(arr);
 
 /*       for (int j = 0; j<= len-1 ; j++){
             System.out.println(arr[j]);
